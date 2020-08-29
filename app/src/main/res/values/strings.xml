@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BloodDonorApp</string>
+    <string name="we_are_here_for_you">We Are Here For You</string>
+    <string name="nearest_hospitals">Nearest Hospitals</string>
+    <array name="City">
+        <item>Jabalpur</item>
+        <item>Bhopal</item>
+        <item>Indore</item>
+        <item>Katni</item>
+        <item>Ujjain</item>
+        <item>Gwalior</item>
+        <item>Khandwa</item>
+        <item>Satna</item>
+        <item>Sagar</item>
+        <item>Rewa</item>
+    </array>
+    <array name="Bg">
+        <item>A+</item>
+        <item>AB+</item>
+        <item>B+</item>
+        <item>AB-</item>
+        <item>B-</item>
+        <item>A-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </array>
+    <array name="spec">
+        <item>Orthologist</item>
+        <item>Cardiologist</item>
+        <item>Physician</item>
+        <item>Anesthologist</item>
+        <item>Surgeon</item>
+        <item>Gynecologist</item>
+    </array>
+</resources>
